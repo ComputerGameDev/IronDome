@@ -4,6 +4,8 @@
 
 The **Iron Dome Defense Game** is a missile defense simulation where players control a launcher to intercept incoming enemy missiles. The goal is to shoot down enemy missiles before they reach the launcher.
 
+[Play Me Now](https://tomgoz.itch.io/ironedomecoregame)
+
 ## Core Mechanics
 
 ### Player Actions
